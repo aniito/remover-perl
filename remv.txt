@@ -1,0 +1,1 @@
+il faut renseigner emplacements des fichiers exemple : /etc/spyware/waindauze/windowze.pél (veuillez à bien retirez ces lignes)
